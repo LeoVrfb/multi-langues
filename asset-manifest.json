@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/multi-langues/static/css/main.0800ac6c.chunk.css",
+    "main.js": "/multi-langues/static/js/main.b2b0246f.chunk.js",
+    "main.js.map": "/multi-langues/static/js/main.b2b0246f.chunk.js.map",
+    "runtime-main.js": "/multi-langues/static/js/runtime-main.8441df15.js",
+    "runtime-main.js.map": "/multi-langues/static/js/runtime-main.8441df15.js.map",
+    "static/js/2.fb48bcc9.chunk.js": "/multi-langues/static/js/2.fb48bcc9.chunk.js",
+    "static/js/2.fb48bcc9.chunk.js.map": "/multi-langues/static/js/2.fb48bcc9.chunk.js.map",
+    "index.html": "/multi-langues/index.html",
+    "static/css/main.0800ac6c.chunk.css.map": "/multi-langues/static/css/main.0800ac6c.chunk.css.map",
+    "static/js/2.fb48bcc9.chunk.js.LICENSE.txt": "/multi-langues/static/js/2.fb48bcc9.chunk.js.LICENSE.txt",
+    "static/media/france.40c79af5.svg": "/multi-langues/static/media/france.40c79af5.svg",
+    "static/media/spain.32e1e489.svg": "/multi-langues/static/media/spain.32e1e489.svg",
+    "static/media/united-kingdom.2d19fed4.svg": "/multi-langues/static/media/united-kingdom.2d19fed4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8441df15.js",
+    "static/js/2.fb48bcc9.chunk.js",
+    "static/css/main.0800ac6c.chunk.css",
+    "static/js/main.b2b0246f.chunk.js"
+  ]
+}
